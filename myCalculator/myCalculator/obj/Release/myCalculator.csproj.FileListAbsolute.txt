@@ -1,0 +1,13 @@
+c:\users\vrtam\documents\visual studio 2017\Projects\myCalculator\myCalculator\bin\Release\myCalculator.exe.config
+c:\users\vrtam\documents\visual studio 2017\Projects\myCalculator\myCalculator\bin\Release\myCalculator.exe.manifest
+c:\users\vrtam\documents\visual studio 2017\Projects\myCalculator\myCalculator\bin\Release\myCalculator.application
+c:\users\vrtam\documents\visual studio 2017\Projects\myCalculator\myCalculator\bin\Release\myCalculator.exe
+c:\users\vrtam\documents\visual studio 2017\Projects\myCalculator\myCalculator\bin\Release\myCalculator.pdb
+c:\users\vrtam\documents\visual studio 2017\Projects\myCalculator\myCalculator\obj\Release\myCalculator.Form1.resources
+c:\users\vrtam\documents\visual studio 2017\Projects\myCalculator\myCalculator\obj\Release\myCalculator.Properties.Resources.resources
+c:\users\vrtam\documents\visual studio 2017\Projects\myCalculator\myCalculator\obj\Release\myCalculator.csproj.GenerateResource.Cache
+c:\users\vrtam\documents\visual studio 2017\Projects\myCalculator\myCalculator\obj\Release\myCalculator.exe.manifest
+c:\users\vrtam\documents\visual studio 2017\Projects\myCalculator\myCalculator\obj\Release\myCalculator.application
+c:\users\vrtam\documents\visual studio 2017\Projects\myCalculator\myCalculator\obj\Release\myCalculator.exe
+c:\users\vrtam\documents\visual studio 2017\Projects\myCalculator\myCalculator\obj\Release\myCalculator.pdb
+C:\Users\vrtam\documents\visual studio 2017\Projects\myCalculator\myCalculator\obj\Release\myCalculator.csprojResolveAssemblyReference.cache
