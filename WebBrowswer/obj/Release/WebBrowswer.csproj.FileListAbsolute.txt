@@ -1,0 +1,13 @@
+c:\users\vrtam\documents\visual studio 2017\Projects\WebBrowswer\WebBrowswer\bin\Release\WebBrowswer.exe.config
+c:\users\vrtam\documents\visual studio 2017\Projects\WebBrowswer\WebBrowswer\bin\Release\WebBrowswer.exe
+c:\users\vrtam\documents\visual studio 2017\Projects\WebBrowswer\WebBrowswer\bin\Release\WebBrowswer.pdb
+c:\users\vrtam\documents\visual studio 2017\Projects\WebBrowswer\WebBrowswer\obj\Release\WebBrowswer.WebBrowser.resources
+c:\users\vrtam\documents\visual studio 2017\Projects\WebBrowswer\WebBrowswer\obj\Release\WebBrowswer.Properties.Resources.resources
+c:\users\vrtam\documents\visual studio 2017\Projects\WebBrowswer\WebBrowswer\obj\Release\WebBrowswer.csproj.GenerateResource.Cache
+c:\users\vrtam\documents\visual studio 2017\Projects\WebBrowswer\WebBrowswer\obj\Release\WebBrowswer.exe
+c:\users\vrtam\documents\visual studio 2017\Projects\WebBrowswer\WebBrowswer\obj\Release\WebBrowswer.pdb
+c:\users\vrtam\documents\visual studio 2017\Projects\WebBrowswer\WebBrowswer\bin\Release\WebBrowswer.exe.manifest
+c:\users\vrtam\documents\visual studio 2017\Projects\WebBrowswer\WebBrowswer\bin\Release\WebBrowswer.application
+c:\users\vrtam\documents\visual studio 2017\Projects\WebBrowswer\WebBrowswer\obj\Release\WebBrowswer.TrustInfo.xml
+c:\users\vrtam\documents\visual studio 2017\Projects\WebBrowswer\WebBrowswer\obj\Release\WebBrowswer.exe.manifest
+c:\users\vrtam\documents\visual studio 2017\Projects\WebBrowswer\WebBrowswer\obj\Release\WebBrowswer.application
