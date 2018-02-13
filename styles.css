@@ -1,0 +1,83 @@
+html {
+	background: #777;
+	margin: 0, auto;
+	padding: 0, auto;
+}
+.bg {
+
+}
+aside {
+	color: white;
+}
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+body {
+	width: 70%;
+	margin: 0 auto;
+	padding: 1em 50px;
+	background: white;
+	border-top: 10px solid gold;
+	border-left: 10px solid gold;
+	border-bottom: 10px solid gold;
+	border-right: 10px solid gold;
+	
+}
+div {
+	color: white;
+	background-color: peach;
+}
+h1 {
+	color: white;
+	font-weight: bold;
+	background: teal;
+}
+footer {
+	color: white;
+	background:gray;
+	padding: 1em 25px;
+}
+h2 {
+	color: white;
+	font-weight: bold;
+	background: teal;
+}
+h3 {
+	color: white;
+	background: teal;
+}
+h4 {
+	color: black;
+	font-weight: bold;
+	background: gold;
+	font-size: 18px;
+}
+p {
+	color: black;
+	font-size: 1em;
+	font-family: Georgia;
+	font-size: 1em;
+	font-weight: normal;
+	background-color: ;
+
+}
+
+blockquote {
+	font-style: italic;
+}
+byline {
+	font-weight: bold;
+}
+ul {
+	color: black;
+}
+li {
+	color: black;
+	a {
+		color: white;
+}
+img {
+
+}
